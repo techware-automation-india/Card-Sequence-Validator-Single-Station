@@ -1,0 +1,25 @@
+{
+  "Integers": {
+    "single": {
+      "OK": "17\r\n",
+      "NOT OK": "18\r\n",
+      "OK (JUMPED)": "17\r\n",
+      "LAST OK": "19\r\n",
+      "LAST OK (JUMPED)": "19\r\n"
+    },
+    "half": {
+      "OK": "09\r\n",
+      "NOT OK": "10\r\n",
+      "OK (JUMPED)": "09\r\n",
+      "LAST OK": "11\r\n",
+      "LAST OK (JUMPED)": "11\r\n"
+    },
+    "quarter": {
+      "OK": "05\r\n",
+      "NOT OK": "06\r\n",
+      "OK (JUMPED)": "05\r\n",
+      "LAST OK": "07\r\n",
+      "LAST OK (JUMPED)": "07\r\n"
+    }
+  }
+}

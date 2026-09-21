@@ -1,0 +1,28 @@
+# PyInstaller build directories
+build/
+dist/
+
+# PyInstaller spec file
+*.spec
+
+# License and key files (CONFIDENTIAL)
+*.pem
+license.dat
+
+# Virtual environment & cache
+.venv/
+__pycache__/
+
+# IDE & Editor
+.vscode/
+.idea/
+
+# Lock files & temp files
+*.lock
+*.log
+*.tmp
+*.pyc
+debug_output.txt
+
+# Local test csv logs
+logs_*.csv
